@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PetBio1</string>
+    <string name="catdescription">Cat 1</string>
+    <string name="dogdescription">Dog 1</string>
+    <string name="imagedescription">Image Idea</string>
+    <string name="petname">Name of the Pet</string>
+    <string name="petdescription">Description of pet</string>
+</resources>
